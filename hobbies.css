@@ -1,0 +1,50 @@
+.keyb{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10;
+}
+
+.keebs{
+    display: flex;
+    justify-content: center;
+}
+
+.keebs img{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.header{
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+    color: grey;
+    margin-top: -100px;
+    font-weight: bold;
+}
+
+.pc{
+    display: flex;
+    justify-content: center;
+}
+
+.pc img{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: -80px;
+}
+
+.game{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10;
+}
+
+.gamedesc{
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+    color: grey;
+    margin-top: -140px;
+    font-weight: bold;
+}

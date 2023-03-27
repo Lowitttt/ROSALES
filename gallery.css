@@ -1,0 +1,34 @@
+.galtext{
+    font-size: 40px;
+    text-align: center;
+}
+
+.images{
+    display: flex;
+    justify-content: center;
+}
+
+.images img{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.emeg{
+    display: flex;
+    justify-content: center;
+}
+
+.emeg img{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.imeg{
+    display: flex;
+    justify-content: center;
+}
+
+.imeg img{
+    margin-left: 5px;
+    margin-right: 5px;
+}

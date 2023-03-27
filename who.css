@@ -1,0 +1,62 @@
+.work{
+    margin-top: 100px;
+    margin-left: 150px;
+    font-weight: bold;
+}
+
+.place{
+    margin-top: 10px;
+    margin-left: 150px;
+}
+
+.name{
+    margin-top: 100px;
+    margin-left: 760px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: grey;
+}
+
+.desc{
+    margin-top: 20px;
+    margin-left: 760px;
+    font-weight: 100;
+}
+
+.desc2{
+    margin-top: 25px;
+    margin-left: 760px;
+    font-weight: 100;
+}
+
+.mypic img{
+    display: block;
+    margin-left: 400px;
+    margin-top: -230px;
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+}
+
+.facebuk img{
+    height: 50px;
+    font-weight: 50px;
+    margin-top: 10px;
+    margin-left: 880px;
+}
+
+.tweter img{
+    height: 50px;
+    font-weight: 50px;
+    margin-top: -48px;
+    margin-left: 950px;
+}
+
+.insta img{
+    height: 50px;
+    font-weight: 50px;
+    margin-top: -50px;
+    margin-left: 1020px;
+}
+
+
